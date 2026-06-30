@@ -1,13 +1,9 @@
 # Warehouse Delivery Analytics Dashboard
 
-# Warehouse Delivery Analytics Dashboard
-
-# Warehouse Delivery Analytics Dashboard
-
 ## Dashboard Screenshots
 
 ### Home Page
-<img src="screenshot/home.png" width="800">
+![Home](Screenshot/home.png)
 
 ### Overview
 <img src="screenshot/pg1.png" width="800">
