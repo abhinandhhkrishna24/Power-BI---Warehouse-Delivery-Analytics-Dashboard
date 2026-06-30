@@ -2,7 +2,7 @@
 
 A multi-page Power BI dashboard analyzing warehouse order and delivery operations — covering revenue performance, delivery efficiency, driver productivity, and order fulfillment trends across multiple cities.
 
-![Cover Page](screenshot/home.png)
+(screenshot/home.png)
 
 ---
 
