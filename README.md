@@ -1,10 +1,15 @@
 # Warehouse Delivery Analytics Dashboard
 
-A multi-page Power BI dashboard analyzing warehouse order and delivery operations — covering revenue performance, delivery efficiency, driver productivity, and order fulfillment trends across multiple cities.
 
 ![Home](screenshot/home.png)
+![Overview](screenshot/pg1.png)
+![Performance](screenshot/pg2.png)
+![Drivers & Delivery](screenshot/pg3.png)
+![Order & Delivery Report](screenshot/pg4.png)
 
----
+
+A multi-page Power BI dashboard analyzing warehouse order and delivery operations — covering revenue performance, delivery efficiency, driver productivity, and order fulfillment trends across multiple cities.
+
 
 ## 📌 Overview
 
@@ -27,22 +32,20 @@ This project simulates an end-to-end warehouse logistics analytics solution, bui
 ### 1. Overview
 Revenue, total orders, unique customers, delivery failure rate, average delivery time, monthly order trends, revenue by city, and top-performing shops.
 
-![Overview](screenshot/pg1.png)
+
 
 ### 2. Performance
 Refund rate trends, ASAP order percentage, average shipping/delivery time vs SLA targets, order fulfillment funnel, and order volume vs delivery time correlation.
 
-![Performance](screenshot/pg2.png)
+
 
 ### 3. Drivers & Delivery
 Active driver count, orders per driver, driver workload distribution, and individual driver performance and delivery time benchmarking.
 
-![Drivers & Delivery](screenshot/pg3.png)
+
 
 ### 4. Order & Delivery Report
 Full transactional detail table with customer, shop, area, order value, discount, refund, delivery fee, and delivery status.
-
-![Order & Delivery Report](screenshot/pg4.png)
 
 ---
 
