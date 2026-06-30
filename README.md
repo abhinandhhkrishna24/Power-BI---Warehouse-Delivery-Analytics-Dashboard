@@ -6,16 +6,16 @@
 ![Home](Screenshot/home.png)
 
 ### Overview
-<img src="screenshot/pg1.png" width="800">
+![Overview](Screenshot/pg1.png)
 
 ### Performance Analysis
-<img src="screenshot/pg2.png" width="800">
+![Overview](screenshot/pg2.png)
 
 ### Drivers & Delivery Analysis
-<img src="screenshot/pg3.png" width="800">
+![Overview](screenshot/pg3.png)
 
 ### Order & Delivery Report
-<img src="screenshot/pg4.png" width="800">
+![Overview](screenshot/pg4.png)
 
 A multi-page Power BI dashboard analyzing warehouse order and delivery operations — covering revenue performance, delivery efficiency, driver productivity, and order fulfillment trends across multiple cities.
 
